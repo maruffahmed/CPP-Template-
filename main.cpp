@@ -24,7 +24,7 @@ using namespace std;
 const ll N = 3e5 + 5;
 const ll MAX = 3e5 + 5;
 const ll M = 1e6 + 5;
-const int mod = 1e18 + 7;
+const ll mod = 1e18 + 7;
 
 //Input:  x = 2, y = 3, p = 5
 //Output: 3
